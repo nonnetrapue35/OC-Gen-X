@@ -1,19 +1,19 @@
 # Opencore Gen-X
-## Desktop Opencore EFI and config.plist generation utility
+## Utilitaire de génération d'EFI et de config.plist pour Opencore Desktop
 
-OC Gen-X is a utility application to create a pre-defined config.plist and a EFI Folder to the users Desktop. Based on the system type selected by the user.
+OC Gen-X est une application utilitaire pour créer un fichier config.plist prédéfini et un dossier EFI sur le bureau de l'utilisateur. Basé sur le type de système sélectionné par l'utilisateur.
 
-The config.plist generated is based off the architectures in the Dortania guide.
-i.e: Haswell, Skylake, Coffeelake etc..
+Le fichier config.plist généré est basé sur les architectures du guide Dortania.
+C'est à dire : Haswell, Skylake, Coffeelake etc...
 
-### Important Information (Please read below)
-This app is only for desktop hackintosh machines, it does not have any pre-defined settings for laptop hackintosh machines.
+### Information Importante (Veuillez lire ce qui suit)
+Cette application est uniquement destinée aux machines hackintosh de bureau, elle n'a pas de paramètres prédéfinis pour les machines hackintosh portables.
 
 ### Credits
-* App is made and designed and copyrighted by *Pavo-IM*
-* *Acidanthera Development Team* for Opencore (This app is not endorsed or promoted by Acidanthera)
-* *Dortania Team* for the Opencore Guide.
-* *Hackintosh x86 discord community* for intial testing and logo's
-* Minor contributions from *@StephenHeaps*
+* L'application est faite, conçue et protégée par *Pavo-IM*.
+* *Acidanthera Development Team* pour Opencore (Cette application n'est pas approuvée ou promue par Acidanthera)
+* *Dortania Team* pour le Guide Opencore.
+* *Hackintosh x86 discord community* pour les essais initiaux et les logos
+* Contributions Mineures from *@StephenHeaps*
 
 
